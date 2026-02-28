@@ -39,7 +39,7 @@ MAX_RECORD_S = 10      # 最长录制 10 秒
 RMS_THRESHOLD = 200
 
 # ================= 3. 豆包 API 配置 =================
-DOUBAO_API_KEY = "f70ce81b-ffc4-43cd-a44a-766c8853a820"
+DOUBAO_API_KEY = "DOUBAO_API_KEY"
 DOUBAO_ENDPOINT = "https://ark.cn-beijing.volces.com/api/v3/chat/completions"
 DOUBAO_MODEL = "doubao-seed-1-6-flash-250828"
 
